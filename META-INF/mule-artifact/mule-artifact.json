@@ -1,0 +1,48 @@
+{
+  "configs": [
+    "authorize.xml",
+    "error.xml",
+    "global.xml",
+    "api.xml",
+    "signup.xml",
+    "health.xml",
+    "change-password.xml",
+    "okta.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "com.mycompany:hea-okta-sapi:1.0.0-SNAPSHOT",
+  "minMuleVersion": "4.4.0",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "log4j2.xml",
+        "global.xml",
+        "health.xml",
+        "authorize.xml",
+        "change-password.xml",
+        "certs/hea-dev.jks",
+        "dwl/post-change-password-response.dwl",
+        "dwl/authorize-queryparams.dwl",
+        "dwl/post-change-password-request.dwl",
+        "dwl/post-signup-request.dwl",
+        "dwl/post-signup-response.dwl",
+        "properties/common-properties.yaml",
+        "properties/secure-prod.yaml",
+        "properties/secure-dev.yaml",
+        "properties/secure-test.yaml",
+        "error.xml",
+        "signup.xml",
+        "okta.xml",
+        "api.xml"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
