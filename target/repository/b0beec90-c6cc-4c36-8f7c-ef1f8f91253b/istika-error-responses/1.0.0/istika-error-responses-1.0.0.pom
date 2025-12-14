@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>b0beec90-c6cc-4c36-8f7c-ef1f8f91253b</groupId>
+  <artifactId>istika-error-responses</artifactId>
+  <version>1.0.0</version>
+  <name>istika-error-responses</name>
+  <properties>
+    <classifier>raml-fragment</classifier>
+    <main>istika-error-responses.raml</main>
+    <status>published</status>
+    <originalFormatVersion>1.0</originalFormatVersion>
+    <projectId>8dcc7fa2-49df-4941-8528-71a25d1cb7f8</projectId>
+    <branchId>master</branchId>
+    <commitId>d22f96c278c2808e0a95e70542644d1c41d4740a</commitId>
+    <keywords/>
+    <type>raml-fragment</type>
+    <mainFile>istika-error-responses.raml</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>
