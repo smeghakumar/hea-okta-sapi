@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>9a250305-af4c-41d4-9969-55b5128b5b10</groupId>
+  <artifactId>njc-hea-datatype-library</artifactId>
+  <version>1.0.43</version>
+  <name>njc-hea-dataType-library</name>
+  <properties>
+    <classifier>raml-fragment</classifier>
+    <main>njc-hea-datatype-library.raml</main>
+    <status>published</status>
+    <originalFormatVersion>1.0</originalFormatVersion>
+    <apiVersion>v1</apiVersion>
+    <projectId>cc02eb13-0588-4194-867b-c31eba8ee7f7</projectId>
+    <branchId>hea-400-20231030</branchId>
+    <commitId>daa8ad35dd3066f70f382b848555ce0349c31c88</commitId>
+    <keywords/>
+    <type>raml-fragment</type>
+    <mainFile>njc-hea-datatype-library.raml</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>

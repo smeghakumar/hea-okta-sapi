@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>b0beec90-c6cc-4c36-8f7c-ef1f8f91253b</groupId>
+  <artifactId>istika-common-header-library</artifactId>
+  <version>1.0.1</version>
+  <name>istika-common-header-library</name>
+  <properties>
+    <classifier>raml-fragment</classifier>
+    <main>istika-common-header-library.raml</main>
+    <status>published</status>
+    <originalFormatVersion>1.0</originalFormatVersion>
+    <apiVersion>v1</apiVersion>
+    <projectId>ef178312-a04d-4ac4-9651-35b51bdb136a</projectId>
+    <branchId>master</branchId>
+    <commitId>eec6b423004fb93ad869c573de5734d8db423122</commitId>
+    <keywords/>
+    <type>raml-fragment</type>
+    <mainFile>istika-common-header-library.raml</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>
